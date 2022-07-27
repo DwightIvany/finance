@@ -1,0 +1,32 @@
+https://www.google.com/finance/quote/ATKR:NYSE
+
+
+https://www.google.com/finance/quote/ASO:NASDAQ
+https://www.google.com/finance/quote/AFMJF:OTCMKTS
+https://www.google.com/finance/quote/BBWI:NYSE
+https://www.google.com/finance/quote/BCC:NYSE
+start https://www.google.com/finance/quote/CODX:NASDAQ
+start https://www.google.com/finance/quote/DDS:NYSE
+start https://www.google.com/finance/quote/DLHC:NASDAQ
+start https://www.google.com/finance/quote/WIRE:NASDAQ
+start https://www.google.com/finance/quote/FLGT:NASDAQ
+start https://www.google.com/finance/quote/HVT:NYSE
+start https://www.google.com/finance/quote/HSII:NASDAQ
+start https://www.google.com/finance/quote/HPQ:NYSE
+start https://www.google.com/finance/quote/INVA:NASDAQ
+start https://www.google.com/finance/quote/IRWD:NASDAQ
+start https://www.google.com/finance/quote/ITOS:NASDAQ
+start https://www.google.com/finance/quote/LIFZF:OTCMKTS
+start https://www.google.com/finance/quote/MSB:NYSE
+start https://www.google.com/finance/quote/QDEL:NASDAQ
+start https://www.google.com/finance/quote/SCPL:NASDAQ
+start https://www.google.com/finance/quote/STZHF:OTCMKTS
+start https://www.google.com/finance/quote/RGR:NYSE
+start https://www.google.com/finance/quote/TLYS:NYSE
+start https://www.google.com/finance/quote/EGY:NYSE
+start https://www.google.com/finance/quote/WSTG:NASDAQ
+start https://www.google.com/finance/quote/WSM:NYSE
+start https://www.google.com/finance/quote/XOMA:NASDAQ
+
+
+WSM Williams-Sonoma, Inc. is an American publicly traded consumer retail company that sells kitchenware
