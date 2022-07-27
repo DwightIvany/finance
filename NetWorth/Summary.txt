@@ -1,0 +1,29 @@
+-----	
+	[Debt]
+TD Visa	0
+Tully Loan	-10000
+TD Mortgage	-38200
+PC LoC	-2500
+Debt	=
+-----	
+	[Cash]
+TD Chequing	100
+Simplii Chequing	1500
+CU Chequing	300
+Misc	0
+Cash	=
+-----	
+	[Savings]
+	
+	
+	
+	
+	
+Long Term	=
+-----	
+	[Assets]
+House	433000
+Stock	11000
+Cars	8000
+	
+Assets	=
