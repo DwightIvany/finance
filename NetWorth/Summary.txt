@@ -24,7 +24,7 @@ Long Term	=
 -----	
 	[Assets]
 House	433000
-Stock	11000
+Stock	11700
 TFSI DI	2800
 Cars	10000
 	
