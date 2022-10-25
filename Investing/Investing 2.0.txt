@@ -1,1 +1,3 @@
 Using PE & ROA (price to Earnings and Return on Assets)
+
+Use OpenBB to get stock info
