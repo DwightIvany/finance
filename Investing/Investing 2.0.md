@@ -21,3 +21,5 @@ Anytime I think ethics and honesty are a hard fail.
 My worst stock, or smallest position anytime I cross the simple dozen.
 
 Define the too good to be true
+
+Questrade Edge is where you can set alerts
