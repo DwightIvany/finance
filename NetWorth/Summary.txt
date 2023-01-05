@@ -11,7 +11,7 @@ Debt	=
 TD Chequing	100
 Simplii Chequing	1800
 CU Chequing	1000
-Misc	0
+Misc	300
 Cash	=
 -----	
 	[Savings]
