@@ -2,16 +2,16 @@
 	[Debt]
 TD Visa	0
 Tully Loan	-10000
-TD Mortgage	-33200
+TD Mortgage	-28700
 PC Visa	0
 PC LoC	0
 Debt	=
 -----	
 	[Cash]
 TD Chequing	100
-Simplii Chequing	1500
-CU Chequing	1600
-Misc	850
+Simplii Chequing	1200
+CU Chequing	300
+Misc	350
 Cash	=
 -----	
 	[Savings]
@@ -21,9 +21,9 @@ Long Term	=
 	[Assets]
 House	487000
 Stock	11700
-TFSI DI	5300
+TFSI DI	5600
 Cars	10000
 	
 Assets	=
 
-TFSA & Black box
+Misc Black box
