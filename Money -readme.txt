@@ -1,3 +1,22 @@
+Likely scenarios:
+
+280k, if our house averages 8% growth
+Daddy sucks it up and deals with the frustrations of self, others and angst.
+
+380k, if we invest or increase our income (better than our current plan aka Jenny earns something)
+
+I earn very little, we eat our own net worth in 2-3 years. Tully launches the rest of the Ivany's are desperate
+I die
+
+# Finance
+Do I buy options.
+Basic math with last option
+12000 x 0.30 = 3600 
+amounts to 5760 or 2160 profit 60%
+Shareholder report 3x ARR / # shares would be a 5x return 
+
+
+
 ---------------------------
  History of investment since Kodak
 Early in the year moved to 50% in Nov 64%, and 75% by year end or early next year
