@@ -2,9 +2,9 @@
 	[Debt]
 TD Visa	0
 Tully Loan	-10000
-TD Mortgage	-?
+TD Mortgage	-29700
 PC Visa	0
-PC LoC	-2000?
+PC LoC	0
 Debt	=
 -----	
 	[Cash]
