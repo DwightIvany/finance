@@ -9,7 +9,7 @@ Debt	=
 -----	
 	[Cash]
 TD Chequing	100
-Simplii Chequing	0
+Simplii Chequing	1900
 CU Chequing	100
 Misc	100
 Cash	=
