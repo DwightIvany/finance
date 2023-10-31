@@ -10,3 +10,4 @@ The strategy has these characteristics per trade:
 5) I envision each of us has the authority to trade each others' account.  After an initial period (1-2 years?), my thought is to move to having one person manage the accounts and switch every three months.
 
 Finacial Freedom idea.
+
