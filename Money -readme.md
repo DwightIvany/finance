@@ -1,3 +1,9 @@
+
+# Exits
+
+- 3 weeks per year
+- 24-33 would be 50-71k
+- Stat 8 min = 17k
 # Interest
 **Mortgage fixed 2.9%** ($78/month @32k)
 **Mortgage flex 7.7%** ($200)
