@@ -3,8 +3,8 @@
 TD Visa	0
 Tully Loan	-8000
 TD Mortgage	-20900
-PC Visa	0
-PC LoC	0
+Simplii Visa	0
+Simplii LoC	0
 Debt	=
 -----	
 	[Cash]
@@ -21,7 +21,7 @@ Long Term	=
 	[Assets]
 House	487000
 Stock	16500
-TFSI DI	6300
+TFSI DI	6800
 Cars	10000
 	
 Assets	=
