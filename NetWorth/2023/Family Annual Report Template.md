@@ -75,12 +75,9 @@ When practical we should compare these to quantifiable goals. It is interesting 
 
 We have been close to our target balances. Because of the nature of annual property assessments, our targets are more linear and our evaluation more step wise.
 
-![[Net Worth 2023.png]]
-
 ## ​Growing Net Worth
 
-![](RackMultipart20231228-1-gqyzyp_html_c275544fbf6f41d4.png)
-
+![[Net Worth 2023.png]]
 A review of our Net Worth over the past several years.
 
 ## Cash Flow
