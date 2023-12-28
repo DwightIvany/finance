@@ -1,16 +1,16 @@
 -----	
 	[Debt]
 TD Visa	0
-Tully Loan	-8000
-TD Mortgage	-20900
+Tully Loan	-9000
+TD Mortgage	-14000
 Simplii Visa	0
 Simplii LoC	0
 Debt	=
 -----	
 	[Cash]
 TD Chequing	100
-Simplii Chequing	1400
-CU Chequing	100
+Simplii Chequing	2100
+CU Chequing	200
 Misc	100
 Cash	=
 -----	
