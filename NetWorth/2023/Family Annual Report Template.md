@@ -14,46 +14,47 @@ This report is organized to include the following information:
 - Accomplishments and Annual Performance
 - Notable actions
 - Our Future & Goal Setting
-
 # 1. Balances
 
 ## ​Account Balances by Category
 
-We now have a list of liabilities, and few tangible assets that are hard to value.
+We now have a short list of liabilities, balanced against one notable with several modest tangible assets that are hard to value.
 
-Our only notable liability is our mortgage. We have Line of Credit (LoC) at CCCU, Simplii, and TD Visa, which we have been zeroing out each month.
+![[Account Balances by Category.png]]Our only notable liabilities are our mortgage and Tully's fund (LoC). We have Line of Credit (LoC) at CCCU, Simplii, and TD Visa, which we have been zeroing out each month.
 
-Our most notable asset is the house and land; with a modest amount in Jostle stock; TFSA, and a token value in vehicles.
+![[Latest Report.png]]
 
-![](RackMultipart20231228-1-gqyzyp_html_a8d85905ba0e06d8.png)
-
+Our one notable asset is the house and land; with a modest amount in Jostle stock; TFSA, and a token value in vehicles.
 # 2. Macro Economics
 
 The finances of our family rest within the trends of Canadian and World economic trends. Our employ-ability rests within the job market largely set by the unemployment rate. Our costs of borrowing is closely tied to prime. Any returns we get on investments will likely co-correlate to the S&P and real estate for the region.
 
 Inflation has become one of the most dominate topics of macro economics. What will the deliberate cooling of the economy mean for us?
-
 The unemployment rate is hinting towards a normal job market.
 
-This has been an exceptional year in the stock market, in which we modestly participated and exceeded the market. **.**
+This has been an exceptional year in the stock market, in which we modestly participated and exceeded the market.
 
-![](RackMultipart20231228-1-gqyzyp_html_a21b3c7d8900420f.png)
+![[Macro Yearly Rates 2023.png]]
 
 # 3. Rate of Return
 
 Our net worth has grown an impressive Compound Annual Growth Rate (CAGR) of 26.7%
 
 Bringing us from $153k starting 2019 to $500k ending 2023.
+![[CAGR Calculator Networth 2023.png]]
 
-![](RackMultipart20231228-1-gqyzyp_html_ab9ec98096120911.png)
+Primarily this is driven by real estate.
 
-Stock & Options Primarily this is driven by real estate.
+![[Home ROI.png]]
 
-![](RackMultipart20231228-1-gqyzyp_html_ba29a2f6f594dcba.jpg)
+![[Dirksen BC Assessment 2023.jpg]]
+
+Stock & Options
+- [ ] todo CAGR for TFSA
 
 Our rate of return on my self directed **TFSA was an impressive 36% in 2023**. Going from $5000-6800. We are unlikely to do as well next year, as we have been so far a head of the market.
 
-![](RackMultipart20231228-1-gqyzyp_html_5fa0a191f06d6ad3.png)
+![[S&P 2023.png]]
 
 We have a modest amount of stock, and a much notable amount of stock options in Jostle.
 
@@ -74,6 +75,8 @@ When practical we should compare these to quantifiable goals. It is interesting 
 
 We have been close to our target balances. Because of the nature of annual property assessments, our targets are more linear and our evaluation more step wise.
 
+![[Net Worth 2023.png]]
+
 ## ​Growing Net Worth
 
 ![](RackMultipart20231228-1-gqyzyp_html_c275544fbf6f41d4.png)
@@ -84,7 +87,7 @@ A review of our Net Worth over the past several years.
 
 This measurement provides significant insight into our short term management of our money, which feeds our long term plans. Any unusual patterns should be discussed, and understood. This shows a clear pattern of debt reduction.
 
-![](RackMultipart20231228-1-gqyzyp_html_e43b43a6ba4d9704.png)
+![[CashFlow 2023.png]]
 
 ## ​Long Term Savings
 
@@ -136,7 +139,7 @@ In 2023 we have discussed a number of topics including:
 		Representation Agreement
 We should also review additional graphs.
 
-![](RackMultipart20231228-1-gqyzyp_html_10b4486f81774546.png)
+![[MindMap 2023.png]]
 
 # 4. Notable Actions and Events
 
@@ -167,11 +170,14 @@ We have been simplifying our accounts, though the process will take another year
 I love you, as evident in this act of service.
 
 # Appendix
-## Additional Graphs
 ### ​Income History
-![](RackMultipart20231228-1-gqyzyp_html_ca3bf14d3954b78f.png)
-![](RackMultipart20231228-1-gqyzyp_html_884412e131b80e4d.png)
 
-## ​ ![](RackMultipart20231228-1-gqyzyp_html_d06b815f0b4b3ae0.png) ![](RackMultipart20231228-1-gqyzyp_html_41ee98e9c8c27e71.png)
+![[Net Income DI 2023.png]]
+
+![[Net Income JI 2023.png]]
+
+![[Net Worth 2023 by Category.png]]
 
 ### ​Monthly History
+
+![[Balances YTD 2023.png]]
