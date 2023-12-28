@@ -1,7 +1,7 @@
 -----	
 	[Debt]
 TD Visa	0
-Tully Loan	-9000
+Tully Loan	-10000
 TD Mortgage	-14000
 Simplii Visa	0
 Simplii LoC	0
