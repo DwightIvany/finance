@@ -13,8 +13,6 @@ Credit cards ~20% ($490)
 
 You will need to pay $1,124.32 on flex to stay on track
 640 on fixed
-
-
 # Emergency Fund
 We need to re-shape the intention of emergency fund, into a better plan B
 
