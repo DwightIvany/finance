@@ -40,26 +40,28 @@ This has been an exceptional year in the stock market, in which we modestly part
 
 # 3. Rate of Return
 
-Our net worth has grown an impressive Compound Annual Growth Rate (CAGR) of 26.7%
+Our net worth has grown an impressive Compound Annual Growth Rate (CAGR) of 26.7% over the past 5 years.
 
 Bringing us from $153k starting 2019 to $500k ending 2023.
 ![[CAGR Calculator Networth 2023.png]]
 
-Primarily this is driven by real estate.
-
-![[Home ROI.png]]
+**Primarily this is driven by real estate.**
 
 ![[Dirksen BC Assessment 2023.jpg]]
 
-Stock & Options
-- [ ] todo CAGR for TFSA
 
-Our rate of return on my self directed **TFSA was an impressive 36% in 2023**. Going from $5000-6800. We are unlikely to do as well next year, as we have been so far a head of the market.
+- 
+## Self Directed TFSA DI ROI
+
+![[ROI TFSA DI.png]]
+
+Our rate of return on my self directed. Going from $5000-6800. We are unlikely to do as well next year, as we have been so far a head of the market. This out performed the S&P.
 
 ![[S&P 2023.png]]
 
+## Stock
 We have a modest amount of stock, and a much notable amount of stock options in Jostle.
-
+Approximate value **$16,500**
 # 4. Accomplishments and Performance
 
 We have often reviewed our accomplishments within the following categories:
@@ -80,8 +82,7 @@ We have been close to our target balances. Because of the nature of annual prope
 ## ​Growing Net Worth
 
 ![[Net Worth 2023.png]]
-A review of our Net Worth over the past several years.
-
+A review of our Net Worth over the past several years plotted with our target.
 ## Cash Flow
 
 This measurement provides significant insight into our short term management of our money, which feeds our long term plans. Any unusual patterns should be discussed, and understood. This shows a clear pattern of debt reduction.
@@ -98,11 +99,11 @@ We shall hold only a modest amount of savings as part of our monthly cash flow. 
 
 ## ​T. Ivany Funds
 
-The kids are essentially unfunded with essential float. Tuskar should elevate to reasonable expense petty cash, and debt card access. Tully is running a portion of our flexline.
+The kids are essentially unfunded with essential float. Tuskar should elevate to reasonable expense petty cash, and debt card access. Tully is essentially banking an inverted LoC (he decides how much that we do not hold on our flex-line and we pay him monthly interest.
 
 ## ​Debt Free
 
-We have long aspired to reduce the stress of debt; however, home ownership has saddled us with a mortgage. This year we reduced our debt by about $4k.
+We have long aspired to reduce the stress of debt; however, home ownership has saddled us with a mortgage. This year we reduced our debt by about **$22k.**
 
 ## ​Live a Beautiful Life
 
@@ -124,19 +125,14 @@ In 2023 we have discussed a number of topics including:
 - Open to the possibility of RRSP as a tax strategy.
 - TFSA currently in Dwight's name for tax and overhead.
 - Line of Credit (and Tully fund)
-- [ ] update Marginal Rates
-	Jenny
-		2012 17%
-		2016 20%
+- Insurance considering when to drop life, home has been reduced
+- Legalities todo Representation Agreement
+## Marginal Rates
+	Jenny 
+		2023 20%
 	Dwight
-		2012 34%
-		2016 31%
+		2023 38%
 	Boys 0%
-	Insurance
-		Life (considering when to drop)
-	Legalities
-		Representation Agreement
-We should also review additional graphs.
 
 ![[MindMap 2023.png]]
 
@@ -151,20 +147,16 @@ The following has been raised over conversations throughout the year.
 
 ## ​Ten Year Plan
 
-We planned to own the home in 15 years. It is likely we will own it in 10. Our next plan should be focused on financial freedom (aka. Retirement.
-
+We planned to own the home in 15 years. It is likely we will own it in 10. Our next plan should be focused on financial freedom (aka. Retirement).
 # ​Anticipated Expenses
 - The roof
 - Vechicle.
 - Tully launching (school)
-
 # ​Vacation
 Let us consider our debt reduction desired with the balance of possible vacations.
-
 # ​Simplify Accounts
 
 We have been simplifying our accounts, though the process will take another year. Primarily controlled by our mortgage, and clear title (aka discharge the mortgage Q1 2025)
-
 # Summary
 I love you, as evident in this act of service.
 

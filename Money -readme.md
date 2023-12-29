@@ -48,6 +48,15 @@ Visa every six months
 Got to tickle equivalent
 Download PC yearly
 
+# Marginal Tax Rates
+Jenny 
+	2012 17%
+	2016 20%
+	2023 20%
+Dwight
+	2012 34%
+	2016 31%
+	2023 38%
 Download Visa more often <6 months
 ---
 
