@@ -19,7 +19,7 @@ Cash	=
 Long Term	=
 -----	
 	[Assets]
-House	487000
+House	468000
 Stock	16500
 TFSI DI	6800
 Cars	10000
