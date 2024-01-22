@@ -1,3 +1,6 @@
+START https://www.google.com/finance/quote/LNG:NYSEAMERICAN
+START https://www.google.com/finance/quote/JILL:NYSE
+
 START https://www.google.com/finance/quote/MO:NYSE
 START https://www.google.com/finance/quote/AMN:NYSE
 START https://www.google.com/finance/quote/BKE:NYSE
@@ -18,8 +21,6 @@ START https://www.google.com/finance/quote/GCT:NASDAQ
 START https://www.google.com/finance/quote/HRMY:NASDAQ
 START https://www.google.com/finance/quote/HSII:NASDAQ
 START https://www.google.com/finance/quote/EBIXQ:OTCMKTS
-START https://www.google.com/finance/quote/LNG::NYSEAMERICAN
-START https://www.google.com/finance/quote/JILL:NYSE
 START https://www.google.com/finance/quote/MED:NYSE
 START https://www.google.com/finance/quote/MLI:NYSE
 START https://www.google.com/finance/quote/MD:NYSE
@@ -48,3 +49,11 @@ START https://www.google.com/finance/quote/TH:NASDAQ
 START https://www.google.com/finance/quote/UONEK:NASDAQ
 START https://www.google.com/finance/quote/VYGR:NASDAQ
 START https://www.google.com/finance/quote/ZYME:NASDAQ
+
+START https://www.google.com/finance/quote/MLI:NYSE?window=5Y
+START https://www.google.com/finance/quote/JILL:NYSE?window=5Y
+START https://www.google.com/finance/quote/VGR:NYSE?window=5Y
+START https://www.google.com/finance/quote/COLL:NASDAQ
+START https://www.google.com/finance/quote/CPRX:NASDAQ
+START https://www.google.com/finance/quote/GPOR:NYSE
+START https://www.google.com/finance/quote/VGR:NYSE?window=5Y
