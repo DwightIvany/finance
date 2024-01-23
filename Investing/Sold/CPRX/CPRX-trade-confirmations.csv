@@ -1,0 +1,4 @@
+CurrencyCode_Group_Account,Trade Date,Settlement date,Trade #,Action,Quantity,Symbol,Description,TB,EX,Price,Gross amount,Comm,SEC fees,Interest amount,Net amount,Net amount (account currency)
+U.S. stocks and options - Account 5284197018,14-06-22,16-06-22,A802E9,Buy,50,CPRX,CATALYST PHARMACEUTICALS INC,A,NY,6.289,(314.45),(4.95),0,0,(319.40),(319.40)
+U.S. stocks and options - Account 5284197018,27-06-22,29-06-22,B85B85,Buy,35,CPRX,CATALYST PHARMACEUTICALS INC,A,NY,7.109,(248.82),(4.95),0,0,(253.77),(253.77)
+U.S. stocks and options - Account 5284197018,2022-07-21,2022-07-25,D68782,Sell,85,CPRX,CATALYST PHARMACEUTICALS INC,A,NY,9.501,807.59,(4.95),(0.02),0,802.62,802.62
