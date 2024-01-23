@@ -1,6 +1,5 @@
 START https://www.google.com/finance/quote/LNG:NYSEAMERICAN
 START https://www.google.com/finance/quote/JILL:NYSE
-
 START https://www.google.com/finance/quote/MO:NYSE
 START https://www.google.com/finance/quote/AMN:NYSE
 START https://www.google.com/finance/quote/BKE:NYSE

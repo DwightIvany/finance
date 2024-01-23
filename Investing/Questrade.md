@@ -1,0 +1,1 @@
+- [x] open Questrade TFSA DI 52841970 ✅ 2024-01-22
