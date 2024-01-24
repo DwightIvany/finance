@@ -1,0 +1,147 @@
+commit d6b6ff7f0ed7679b6337e8dea279a247a7c180b5
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2024-01-22 20:57:11 -0800
+
+    edit older review file
+
+M	Investing/Research/2022-07-25.md
+
+commit a4e932d3518ba8f86e485e440e817dc541ad31bf
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2024-01-22 16:51:57 -0800
+
+    reorganize investing folder especially research
+
+R100	Investing/Research/Delme AGX.md	Investing/Research/AGX/AGX.md
+R100	Investing/Research/HZO-candle-2022-10-26.png	Investing/Research/AGX/HZO-candle-2022-10-26.png
+R100	Investing/Research/HZO/2022-10-26.xlsx	Investing/Research/HZO/HZO 2022-10-26.xlsx
+R100	Investing/Research/Screenshot_20240121-165834_QuestMobile.png	Investing/Research/QuestMobile-2024-01-21.png
+R100	Investing/Research/SKY-candle-2022-10-26.png	Investing/Research/SKY/SKY-candle-2022-10-26.png
+R100	Investing/Research/TKR-candle-2022-10-26.png	Investing/Research/TKR/TKR-candle-2022-10-26.png
+R100	Investing/Research/TNET-candle-2022-10-26.png	Investing/Research/TNET/TNET-candle-2022-10-26.png
+R100	Investing/Research/WSM-candle-2022-10-26.png	Investing/Research/WSM/WSM-candle-2022-10-26.png
+R100	Investing/Research/WSTG-candle-2022-10-26.png	Investing/Research/WSTG/WSTG-candle-2022-10-26.png
+M	Investing/Research/stock-pick-ticker-2024-01-21.bat
+A	Investing/Research/stock-ticker-google.bat
+
+commit 1ebc85e2f14042f2b88e8fc390d696def2719847
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2024-01-22 08:04:40 -0800
+
+    research stock pick
+
+M	Investing/Research/2024-01-21.md
+A	Investing/Research/MLI/Fraud_Risk_Statistics_20240122_002456.csv
+A	Investing/Research/MLI/MLF_dcf_20240121.xlsx
+A	Investing/Research/MLI/MLI- ROE-dupont-2024-01-21.png
+A	Investing/Research/MLI/MLI-candle-2024-01-21.png
+A	Investing/Research/MLI/MLI_ SEC_filings_analysis_20240122_003844.csv
+A	Investing/Research/MLI/MLI_Balance_Sheet_20240122_003212.csv
+A	Investing/Research/MLI/MLI_Cash_Flow_20240122_003739.csv
+A	Investing/Research/MLI/MLI_Income_Statement_20240122_003103.csv
+A	Investing/Research/MLI/MLI_Key_Metrics_20240122_003609.csv
+A	Investing/Research/MLI/MLI_Quote_20240122.csv
+A	Investing/Research/MLI/MLI_Ratios_20240122_002020.csv
+A	Investing/Research/Screenshot_20240121-165834_QuestMobile.png
+
+commit 87c567ad8cdee6620fc3d8e8ca5a9a7f81a3bce4
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2024-01-21 16:15:01 -0800
+
+    picked top 7 primarily on history
+
+M	Investing/Research/2024-01-21.md
+M	Investing/Research/magic-2024-01-21.csv
+M	Investing/Research/stock-pick-ticker-2024-01-21.bat
+
+commit f210da60516a86ad4b2975d8afd8ab404dca8701
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2024-01-21 15:49:09 -0800
+
+    start bat
+
+M	Investing/Research/stock-pick-ticker-2024-01-21.bat
+
+commit 2772aa7259ee123978f246000583d7fabd94e0f6
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2024-01-21 15:15:05 -0800
+
+    research
+
+M	Investing/Research/2022-10-26.md
+A	Investing/Research/2024-01-21.md
+A	Investing/Research/magic-2024-01-21.csv
+A	Investing/Research/stock-pick-ticker-2024-01-21.bat
+
+commit abe954e3f9ce2e4a60fc31349339c88baf89c9b4
+Author: Dwight Ivany <dwight.ivany@gmail.com>
+Date:   2023-10-26 11:11:55 -0700
+
+    file renames for vault and some clean up adding a space for old ideas
+
+R100	Investing/Research/Delme AGX.txt	Investing/Research/Delme AGX.md
+
+commit 31817f785979059b13facb36aaf33b1f48dbf809
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2023-01-22 20:20:46 -0800
+
+    Latest monthly with possible stock pick
+
+A	Investing/Research/Delme AGX.txt
+
+commit d447058b42c909a81992c0ca403c460b527f8012
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2022-11-21 08:51:01 -0800
+
+    Latest couple weeks of finance notes
+
+M	Investing/Research/Assets Liabilities.png
+M	Investing/Research/Balance Sheet.png
+M	Investing/Research/Income Statement.png
+
+commit 28b1f2b692f489378a28f3c8583f889b5dc3061e
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2022-10-31 11:04:05 -0700
+
+    Many changes for recent research
+
+A	Investing/Research/ATKR/ATKR Questions.doc
+A	Investing/Research/Assets Liabilities.png
+A	Investing/Research/Balance Sheet.png
+A	Investing/Research/Income Statement.png
+A	Investing/Research/Magic.png
+A	Investing/Research/Stock Questions.doc
+
+commit 69b74b563e828ef69926613c659241833dd23a86
+Author: Dwight Ivany <dwight@jostle.me>
+Date:   2022-10-26 13:30:01 -0700
+
+    Doing research for next stock pick
+
+R100	Investing/Research/2022-07-25.txt	Investing/Research/2022-07-25.md
+A	Investing/Research/2022-10-26.md
+A	Investing/Research/ATKR/ATKR 2022-10-26.xlsx
+A	Investing/Research/ATKR/ATKR-candle-2022-10-26.png
+A	Investing/Research/HSII/HSII-2022-10-26.xlsx
+A	Investing/Research/HSII/HSII-candle-2022-10-26.png
+A	Investing/Research/HVT/2022-10-26.xlsx
+A	Investing/Research/HVT/Figure_2.png
+A	Investing/Research/HZO-candle-2022-10-26.png
+A	Investing/Research/HZO/2022-10-26.xlsx
+A	Investing/Research/SKY-candle-2022-10-26.png
+A	Investing/Research/SKY/2022-10-26.xlsx
+A	Investing/Research/SNBR/2022-10-26.xlsx
+A	Investing/Research/SNBR/Figure_1.png
+A	Investing/Research/TKR-candle-2022-10-26.png
+A	Investing/Research/TNET-candle-2022-10-26.png
+A	Investing/Research/WSM-candle-2022-10-26.png
+A	Investing/Research/WSTG-candle-2022-10-26.png
+A	Investing/Research/WSTG/2022-10-26.xlsx
+
+commit f368508aaa326fb80642532e0a9422e3044bbaf6
+Author: Dwight Ivany <dwight.ivany@gmail.com>
+Date:   2022-07-27 15:33:27 -0700
+
+    Most recent round of investing files
+
+A	Investing/Research/2022-07-25.txt

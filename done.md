@@ -1,0 +1,32 @@
+- [x] Buy 14 KFY KORN FERRY 54.086 ✅ 2022-06-14
+- [x] Buy 50 CPRX 6.289 ✅ 2022-06-16
+- [x] Buy 7 BKE 30.04 ✅ 2022-06-21
+- [x] Buy 8 BKE 29.979 ✅ 2022-06-27
+- [x] Buy 35 CPRX 7.109 ✅ 2022-06-27
+- [x] Sell 85 CPRX 9.501 ✅ 2022-07-21
+- [x] Buy 1 SPY 401.84 ✅ 2022-07-28
+- [x] Buy 7 QDEL 101.03 ✅ 2022-07-28
+- [x] Buy 1 SPY 392.88 ✅ 2022-09-01
+- [x] Sell 2 SPY 383.072 ✅ 2022-10-26
+- [x] Buy 8 ATKR 95.71 ✅ 2022-10-27
+- [x] Sell 7 QDEL 91.42✅ 2022-11-11
+- [x] Sell 8 ATKR 101.49 ✅ 2022-11-11
+- [x] Sell 15 BKE 40.31 ✅ 2022-11-11
+- [x] Sell 14 KFY 56.752 ✅ 2022-11-14
+- [x] Buy 20 KFY 51.847 ✅ 2022-11-14
+- [x] Buy 11 AMZN 92.876 ✅ 2022-11-14
+- [x] Buy 12 QDEL 84.86 ✅ 2022-11-14
+- [x] Buy 1 SPY 379.916 ✅ 2022-12-19
+- [x] Buy 17 BKE 37.823 ✅ 2023-03-10
+- [x] Sell 2 QDEL 83.819 ✅ 2023-03-13
+- [x] Sell 1 SPY 389.47 ✅ 2023-03-13
+- [x] Buy 27 FTXO 21.178 ✅ 2023-03-15
+- [x] edit older review ✅ 2024-01-22
+- [x] reorganize investing folder especially research ✅ 2024-01-22
+- [x] research stock pick esp MLI ✅ 2024-01-22
+- [x] picked top 7 MLI JILL VGR COLL CPRX GPOR VGR ✅ 2024-01-21
+- [x] start Magic Formula bat ✅ 2024-01-21
+- [x] file renames for vault and some clean up add old ideas ✅ 2023-10-26
+- [x] latest monthly and research AGX ✅ 2023-01-22
+- [x] Review finance notes ✅ 2022-11-21
+- [x] Research ATKR HSII HVT HZO SKY SNBR TKR TNET WSM WSTG with OpenBB ✅ 2022-07-27
