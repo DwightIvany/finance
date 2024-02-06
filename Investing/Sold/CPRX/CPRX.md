@@ -40,7 +40,7 @@ Morning Star
 # Price
 
 1. Is the p/e ratio high or low for this particular company and for similar companies in the same industry? 🟢 Low Answer: low is good, Reuters, Ratio, P/E —Lynch
-# Positive inidcators
+# Positive indicators
 
 2. What is the percentage of institutional ownership?
     Neutral Answer: lower is better, Google
