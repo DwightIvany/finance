@@ -30,3 +30,4 @@
 - [x] latest monthly and research AGX ✅ 2023-01-22
 - [x] Review finance notes ✅ 2022-11-21
 - [x] Research ATKR HSII HVT HZO SKY SNBR TKR TNET WSM WSTG with OpenBB ✅ 2022-07-27
+- [x] Research on current positions AMZN and BKE ✅ 2024-02-15
