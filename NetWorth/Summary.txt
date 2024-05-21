@@ -1,26 +1,23 @@
 -----	
 	[Debt]
-TD Visa	0
+TD Visa	200
 Tully Loan	-12000
-TD Mortgage	-7000
-Simplii Visa	
+TD Mortgage	-4400
+Simplii Visa	0
 Simplii LoC	0
 Debt	=
 -----	
 	[Cash]
-TD Chequing	100
-Simplii Chequing	2500
-CU Chequing	100
-Misc	-2000
+TD Chequing	700
+Simplii Chequing	2900
+CU Chequing	700
+Misc	100
 Cash	=
 -----	
 	[Assets]
 House	468000
 Stock	16500
-TFSI DI	7900
+TFSI DI	8100
 Cars	7000
 -----	
 Assets	=
-
-	
-Misc Black box	100 but in March I had 1700 to RevCan and 250 out in CCCU checque
